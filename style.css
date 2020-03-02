@@ -1,0 +1,16 @@
+body{
+    box-shadow:10px 10px 10px 10px black;
+    background-color: darkgrey;
+}
+
+
+.header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px 5px black;
+    font-size: xx-large;
+}
+.thanks{
+    margin:50px;
+}
